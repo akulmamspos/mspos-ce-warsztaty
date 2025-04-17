@@ -1,2 +1,3 @@
 dzień dobry
 hello world
+TEST MF coś miłego albo nie
